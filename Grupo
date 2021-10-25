@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Grupo</title>
+<style>
+table {
+  border-collapse: collapse;
+  width: 50%;
+}
+
+td, th {
+  border: 2px solid #807a7a;
+  text-align: left;
+  padding: 8px;
+}
+
+</style>
+</head>
+<body>
+
+<h1>Plasaporros</h1>
+<p>Plasaporros es un grupo de musica urbana procedente de Granada. Con su corta pero intensa carrera se dia a conocer con su ultimo disco "Er patio los neones", teniendo varias colaboraciones como ChicoBlanco o 100 pistas.</p>
+<img src="plasaporros.jpg" style="width:525px; height:300px;">
+<img src="plasa.jpg" style="width:525px; height:300px;">
+<h2>Integrantes del grupo</h2>
+<ol type=”A”>
+  <li>Cristina Aspirina</li>
+  <li>Killmiyia</li>
+  <li>Maladecora</li>
+  <li>Vanilino</li>
+  <li>Robe</li>
+</ol>
+<h2>Discografia</h2>
+<table>
+  <tr>
+    <th>Año</th>
+    <th>Disco</th>
+  </tr>
+  <tr>
+    <th>2019</th>
+    <td>Fumaso</td>
+  </tr>
+  <tr>
+    <th>2020</th>
+    <td>Hello Keta</td>
+  </tr>
+<tr>
+    <th>2021</th>
+    <td>Er patio los neones</td>
+  </tr>
+
+</body> 
+
+</html>
