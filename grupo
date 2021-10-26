@@ -23,13 +23,13 @@ td, th {
 <img src="https://pbs.twimg.com/profile_images/1419627577698881543/KyYp1Gtz.jpg" style="width:525px; height:300px;">
 <img src="https://i.ytimg.com/vi/XAOrkzJ0c70/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAXHDdvyaAcr9BWDv5VlWmdR6K05A" style="width:525px; height:300px;">
 <h2>Integrantes del grupo</h2>
-<ol type=”A”>
+<ul>
   <li>Cristina Aspirina</li>
   <li>Killmiyia</li>
   <li>Maladecora</li>
   <li>Vanilino</li>
   <li>Robe</li>
-</ol>
+</ul>
 <h2>Discografia</h2>
 <table>
   <tr>
