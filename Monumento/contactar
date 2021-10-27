@@ -1,0 +1,45 @@
+<html>
+ <head>
+    <title>Monumento</title>
+ </head>
+
+<body>
+
+<h1>Palacio de la Aljafería (Zaragoza)</h1>
+<img src="https://www.zaragoza-ciudad.com/wp-content/uploads/2020/04/el-palacio-de-la-aljaferia.jpg" style="width:750px; height:300px;">
+
+<section>
+
+  <nav>
+    <ul>
+      <li><a href="index.html">Indice</a></li>
+      <li><a href="historia.html">Historia</a></li>
+      <li><a href="enlaces.html">Enlaces externos</a></li>
+	  <li><a href="contactar.html">Contactar</a></li>
+    </ul>
+  </nav>
+</header>
+
+<article>
+
+<h1>Formulario</h1>
+
+<fieldset>
+  <label for="fname">Nombre:</label>
+  <input type="text" id="fname" name="fname"><br><br>
+  <label for="lname">Apellidos:</label>
+  <input type="text" id="lname" name="lname"><br><br>
+  <label for="email">Email:</label>
+  <input type="email" id="email" name="email"><br><br>
+	  </fieldset>
+<p>Informe:</p>
+<form action="/action_page.php">
+  <textarea name="message" rows="10" cols="100"></textarea>
+  <br><br>
+  <input type="submit" value="Submit">
+  
+ </article>
+ </section>
+ </body>
+ </html>
+ 
